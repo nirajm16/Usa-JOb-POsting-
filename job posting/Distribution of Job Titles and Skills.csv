@@ -1,0 +1,51 @@
+﻿Job Title,Job Skill,Number of Times Skill Mentioned
+Business Analyst,agile,826
+Business Analyst,aws,37
+Business Analyst,azure,37
+Business Analyst,cloud,241
+Business Analyst,database,133
+Business Analyst,etl,37
+Business Analyst,machine_learning,31
+Business Analyst,programming,70
+Business Analyst,python,96
+Business Analyst,sql,367
+Data Analyst,agile,186
+Data Analyst,aws,96
+Data Analyst,azure,58
+Data Analyst,cloud,177
+Data Analyst,database,416
+Data Analyst,etl,198
+Data Analyst,machine_learning,125
+Data Analyst,programming,217
+Data Analyst,python,683
+Data Analyst,sql,1086
+Data Engineer,agile,654
+Data Engineer,aws,2370
+Data Engineer,azure,1700
+Data Engineer,cloud,2280
+Data Engineer,database,804
+Data Engineer,etl,1141
+Data Engineer,machine_learning,591
+Data Engineer,programming,825
+Data Engineer,python,1823
+Data Engineer,sql,1814
+Data Scientist,agile,100
+Data Scientist,aws,308
+Data Scientist,azure,136
+Data Scientist,cloud,379
+Data Scientist,database,175
+Data Scientist,etl,101
+Data Scientist,machine_learning,977
+Data Scientist,programming,408
+Data Scientist,python,1176
+Data Scientist,sql,867
+Machine Learning Engineer,agile,42
+Machine Learning Engineer,aws,126
+Machine Learning Engineer,azure,28
+Machine Learning Engineer,cloud,106
+Machine Learning Engineer,database,13
+Machine Learning Engineer,etl,11
+Machine Learning Engineer,machine_learning,277
+Machine Learning Engineer,programming,67
+Machine Learning Engineer,python,227
+Machine Learning Engineer,sql,61
